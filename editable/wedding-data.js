@@ -26,10 +26,10 @@ window.WEDDING_DATA = {
   },
 
   wedding: {
-    dateISO: "2026-12-12T18:30:00-05:00",
+    dateISO: "2026-12-12T07:00:00-05:00",
     dateBadge: "Saturday · 12 December 2026",
     dateFormatted: "Saturday, 12 December 2026",
-    timeFormatted: "06:30 PM onwards",
+    timeFormatted: "07:00 AM onwards",
     eventTitle: "Nikah Ceremony & Walima Banquet",
     inviteLine: "Cordially invite you to celebrate their",
     hostLine: "Together with their families",
@@ -58,28 +58,28 @@ window.WEDDING_DATA = {
 
   itinerary: [
     {
-      time: "06:30 PM",
-      title: "Baraat & Grand Welcome",
+      time: "07:00 AM",
+      title: "Grand Welcome",
       subtitle: "Istiqbal",
-      description: "Arrival of the groom's procession with traditional welcome, rose water shower, and welcome drinks.",
+      description: "Warm traditional welcome, rose water shower, and morning refreshments to begin the auspicious day.",
     },
     {
-      time: "07:15 PM",
+      time: "10:00 AM",
       title: "The Nikah Ceremony",
       subtitle: "Ijab-e-Qubool",
       description: "Solemnisation of marriage according to Sunnah, recitation of Quranic verses, and acceptance of vows.",
     },
     {
+      time: "07:00 PM",
+      title: "Walima (Reception)",
+      subtitle: "Reception",
+      description: "Evening celebratory reception welcoming the newlyweds with loved ones, blessings, and joyous memories.",
+    },
+    {
       time: "08:30 PM",
       title: "Royal Dastarkhwan (Feast)",
       subtitle: "Walima Dinner",
-      description: "Celebratory wedding banquet featuring delectable feast and desserts served in honour of the newlyweds.",
-    },
-    {
-      time: "10:30 PM",
-      title: "Rukhsati & Blessings",
-      subtitle: "Duas & Farewell",
-      description: "The emotional send-off, surrounded by the prayers and blessings of both families under the holy Quran.",
+      description: "Celebratory royal dinner banquet featuring delectable feast and desserts served in honour of the newlyweds.",
     },
   ],
 
